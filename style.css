@@ -1,0 +1,60 @@
+*{
+    margin:0px ;
+    padding:0px; 
+     direction:rtl;
+    
+       }
+body{
+background-color:pink ;
+}
+
+
+
+h1{ width:700px;
+background-color:yellow;
+text-align:center  ;
+
+
+        
+}
+.da{
+ margin-top:35px ;
+ 
+  
+
+}
+p{
+ white-space:pre;
+ color:green ;
+ font-size:20px ;
+}
+div{
+ background-color:yellow ;
+ width:200px ;
+ height:200px;
+ border:solid 6px red;
+ border-radius:100px;
+ text-align:center ;
+ 
+ margin:30px 200px ;
+ 
+}
+
+
+.jaw{ 
+margin-top:70px;
+display:inline-block ;
+text-decoration:non;
+font-size:30px ;
+background-color:yellow;
+}
+table{
+  border:solid  3px brown;
+margin-right: 300px;
+}    
+th{
+border:solid 1px ;
+font-size:19px;
+color:black ;
+background-color: white;
+}
